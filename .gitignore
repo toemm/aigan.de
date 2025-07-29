@@ -1,0 +1,11 @@
+.vscode/
+
+.ipynb_checkpoints/
+
+checkpoints/
+datasets/
+samples/
+
+*.png
+
+DCGAN_training_progression_history.ipynb
